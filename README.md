@@ -19,13 +19,13 @@ It is guaranteed that at least one solution exists. If there are multiple soluti
  Time limit: 10 seconds per test set.
  Memory limit: 1GB.
  At least one of the digits of N is a 4.
-# Test set 1 (Visible)
-# 1 < N < 105.
-# Test set 2 (Visible)
-# 1 < N < 109.
+ Test set 1 (Visible)
+ 1 < N < 105.
+ Test set 2 (Visible)
+ 1 < N < 109.
 Solving the first two test sets for this problem should get you a long way toward advancing. The third test set is worth only 1 extra point, for extra fun and bragging rights!
-# Test set 3 (Hidden)
-# 1 < N < 10100.
+ Test set 3 (Hidden)
+ 1 < N < 10100.
 
 
 
